@@ -1,0 +1,31 @@
+<!Doctype html>
+<html>
+<head>
+<style>
+body{background-color:RoyalBlue;}
+</style>
+<title>links</title>
+-</head>
+<body>
+<h1 style ="color:orange:"><a href="https://google.com" target="_blank">go to google</a><br>
+<a href="#about"> about nalanda university</a>
+
+<section id="about"> <h2 style="margin-top:500px;">about</h2>
+ 
+ 
+ 
+<p><em>Nalanda, a renowned Mahavihara (great monastery), was located in the ancient kingdom of Magadha (modern-day Bihar) near the city of Rajagriha (now Rajgir), about 90 km southeast of Patna. It was founded in the 5th century CE and flourished for over 800 years, until the end of the 12th century CE.<br> 
+Nalanda attracted scholars and students from various regions, including China, Korea, Japan, Tibet, Mongolia, Sri Lanka, and Southeast Asia. It was a hub for Buddhist studies, but also offered training in fine arts, medicine, mathematics, astronomy, politics, and the art of war.<br></p>
+
+<hr> 
+<p><em>the university had a renowned library, housing an extensive collection of manuscripts and texts from various disciplines. It also had dormitories for students and accommodations for professors, with an estimated 10,000 students and 2,000 teachers at its peak.<br> 
+Nalanda faced decline and eventual destruction in the 12th century due to invasions, leading to the dispersal of its scholars and the loss of its grandeur. In recent times, efforts have been made to revive Nalanda as a modern university, aiming to uphold the spirit of ancient wisdom and global intellectual collaboration. 
+The rejuvenated Nalanda University, established in 2010, is a postgraduate, research-intensive international university, designated as an Institute of National Importance. It is the direct successor of the ancient Nalanda monastery and is located in the ancient city of Rajgir. 
+Nalanda University | History and Revival - Nalanda University</p></em></section>
+
+ <hr>
+ 
+<a href="mailto:shrinak2512@gmail.com/"> send email</a>
+<a href="tel:+7258898270"> +7258898270</a>
+</body>
+</html>
